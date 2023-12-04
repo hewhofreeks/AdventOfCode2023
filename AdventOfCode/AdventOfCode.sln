@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CubeConundrum", "..\CubeCon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trebuchet", "..\Trebuchet\Trebuchet.csproj", "{34B73EC3-2694-4F36-BBDC-5C41E270CB72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearRatios", "..\GearRatios\GearRatios.csproj", "{AB726097-AD7D-4FC8-B5AE-9937A0651E93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GearRatios", "..\GearRatios\GearRatios.csproj", "{AB726097-AD7D-4FC8-B5AE-9937A0651E93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scratchcards", "..\Scratchcards\Scratchcards.csproj", "{0C53EB72-9BBC-450A-A670-1660A0CF91F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{AB726097-AD7D-4FC8-B5AE-9937A0651E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB726097-AD7D-4FC8-B5AE-9937A0651E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB726097-AD7D-4FC8-B5AE-9937A0651E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C53EB72-9BBC-450A-A670-1660A0CF91F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C53EB72-9BBC-450A-A670-1660A0CF91F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C53EB72-9BBC-450A-A670-1660A0CF91F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C53EB72-9BBC-450A-A670-1660A0CF91F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
